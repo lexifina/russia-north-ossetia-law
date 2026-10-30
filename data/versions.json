@@ -1,0 +1,1475 @@
+{
+ "country": "RU-SE",
+ "acts": [
+  {
+   "slug": "zakony-2015",
+   "short": "Законы 2015",
+   "title": "Republic of North Ossetia-Alania: catalogue of the laws published in 2015 (facts only, no law text)",
+   "url": "http://publication.pravo.gov.ru/documents/block/region15",
+   "versions": [
+    {
+     "from": "2015-10-05",
+     "units": 1,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region15",
+     "sha256": "db21f5e6877c84c6bf4b21a2208c878f2262f121f4c678aba023200f258c90f7"
+    },
+    {
+     "from": "2015-10-08",
+     "units": 2,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region15",
+     "sha256": "449ee8c0eea7f463bee47eb3f22c90af80434a7e841a79adab670281c160e145"
+    },
+    {
+     "from": "2015-10-20",
+     "units": 4,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region15",
+     "sha256": "3c8275bbf7757de205091cfe8e24c67636083dadcec30a7fd3cbd8fb4de5c6a6"
+    },
+    {
+     "from": "2015-11-02",
+     "units": 5,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region15",
+     "sha256": "7991fd2beb20d579bc81addf21bdadc4aad3badd0f5cac4030fdaddd90ab176a"
+    },
+    {
+     "from": "2015-11-05",
+     "units": 7,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region15",
+     "sha256": "26af1c9a2a06089e7e66e1e48c5fb16d0e49f7bcbad6d9b0c1bd3fb351f4438c"
+    },
+    {
+     "from": "2015-11-17",
+     "units": 10,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region15",
+     "sha256": "0a44e54ac74c5bcce31d62d62cf518c2fb457003c42721e81e27c0a94f15503e"
+    },
+    {
+     "from": "2015-12-21",
+     "units": 17,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region15",
+     "sha256": "42595fdcb3eaba200d3fe711439f56212532a57f3e41fa9e61358acb7339413f"
+    },
+    {
+     "from": "2015-12-24",
+     "units": 18,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region15",
+     "sha256": "f933e8df0ecf5d23eb304cc7586a2123912dee086bb730195997d125e60eca67"
+    },
+    {
+     "from": "2015-12-29",
+     "units": 19,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region15",
+     "sha256": "d3e970f682def17e9bfa1897f7105cf8c9650633cd48b2b2e5dad19474dcf298"
+    }
+   ]
+  },
+  {
+   "slug": "zakony-2016",
+   "short": "Законы 2016",
+   "title": "Republic of North Ossetia-Alania: catalogue of the laws published in 2016 (facts only, no law text)",
+   "url": "http://publication.pravo.gov.ru/documents/block/region15",
+   "versions": [
+    {
+     "from": "2016-01-04",
+     "units": 20,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region15",
+     "sha256": "70e3314567f17059d564458068457f1987902e537b771e33fc91c327ccfa3821"
+    },
+    {
+     "from": "2016-03-17",
+     "units": 32,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region15",
+     "sha256": "0196bca5339258b636707f5da1b6a77208737a751fe0cbc7a4dd1eeef994d48f"
+    },
+    {
+     "from": "2016-04-20",
+     "units": 34,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region15",
+     "sha256": "cb6dfd1e251d20da289e461a87af7e6ca3dcd828f77f1ddcf72e3d91e03af0fd"
+    },
+    {
+     "from": "2016-04-21",
+     "units": 37,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region15",
+     "sha256": "cb220a34eb4a9cd695fe68040bed31f1b9540ee348a0a3ee3097449bc02b8748"
+    },
+    {
+     "from": "2016-05-06",
+     "units": 42,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region15",
+     "sha256": "d3d0acfe1393c0fbcd169e45588d9ca051af0ce02673ee577182147671d7f82e"
+    },
+    {
+     "from": "2016-05-19",
+     "units": 44,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region15",
+     "sha256": "fdc610b6bd429a46ad8356b7dff4ae5cf194eaa4657ace1b77d206ba19e8fcb4"
+    },
+    {
+     "from": "2016-05-31",
+     "units": 45,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region15",
+     "sha256": "de162e295365ff0b8be4213b0adb37d571a7960a1d410b7c5eaaf89a1fec2512"
+    },
+    {
+     "from": "2016-06-20",
+     "units": 51,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region15",
+     "sha256": "b812c10dd9ffcdfb3bd6672f60564b996d5e2c5b57f928dfa4086883dae80f8e"
+    },
+    {
+     "from": "2016-07-12",
+     "units": 52,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region15",
+     "sha256": "217f5d001798e674899da9e21adf379e4bc249a2b26fe95709f821f962c91877"
+    },
+    {
+     "from": "2016-07-13",
+     "units": 60,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region15",
+     "sha256": "2f529e1d3dd2daf00a8757b69728ab03263d8c13cab4ccab189d748aa722c79f"
+    },
+    {
+     "from": "2016-07-14",
+     "units": 61,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region15",
+     "sha256": "9c8b3657f7d321ecefafa580cdd0f6017e824238eba4a9688ad25ade733d6d4a"
+    },
+    {
+     "from": "2016-07-16",
+     "units": 62,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region15",
+     "sha256": "e5093e49507164dd5c217a20cdadc7004904dad5614569c3844bed37bf09d632"
+    },
+    {
+     "from": "2016-10-06",
+     "units": 66,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region15",
+     "sha256": "47adacd219e7e5e81b718a58b591cf77d1ae7aa6c0ab9bfc4db18686ab0a80ee"
+    },
+    {
+     "from": "2016-10-21",
+     "units": 72,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region15",
+     "sha256": "71f479ef733c8779ee9f5ff6db4cacf4a2a1a022717628ed3872e3634aacd147"
+    },
+    {
+     "from": "2016-11-01",
+     "units": 74,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region15",
+     "sha256": "0c345052bbb244e5e4d6e9c4d6765f721a10db9854fe113ad68fddcb69220e00"
+    },
+    {
+     "from": "2016-11-03",
+     "units": 78,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region15",
+     "sha256": "fb011a84ab20fc7eddda2d5492c993cc07d4f755695f487811e2469b0644c7eb"
+    },
+    {
+     "from": "2016-11-08",
+     "units": 83,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region15",
+     "sha256": "567e72539c9d7e9fb372ea23763b4595747ae4e6916bbd7f191f78def72f7692"
+    },
+    {
+     "from": "2016-12-02",
+     "units": 84,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region15",
+     "sha256": "1f1a5288763c6a4da2c51cd322b26f35ca1a9f037afeba2af603dd5d4cc9d534"
+    },
+    {
+     "from": "2016-12-07",
+     "units": 89,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region15",
+     "sha256": "033c9ab06e9d4c12816448c36787a4d3d7c817e832bd289d4dec04ba63fc0a48"
+    },
+    {
+     "from": "2016-12-19",
+     "units": 95,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region15",
+     "sha256": "c1813e6acb5eb7dfffee920a4880afc085c6f9f8d5e611ac58a375d0f8eca117"
+    },
+    {
+     "from": "2016-12-22",
+     "units": 97,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region15",
+     "sha256": "f5282bdb9dc4a93c067f1bad17ee7916c19bc1a99a2a00d09b7118871602d4ac"
+    },
+    {
+     "from": "2016-12-30",
+     "units": 98,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region15",
+     "sha256": "d06d2d78d666baedd7d00b51000a44f34c7a179f53aa806b08bcfc4be7fa54a0"
+    }
+   ]
+  },
+  {
+   "slug": "zakony-2017",
+   "short": "Законы 2017",
+   "title": "Republic of North Ossetia-Alania: catalogue of the laws published in 2017 (facts only, no law text)",
+   "url": "http://publication.pravo.gov.ru/documents/block/region15",
+   "versions": [
+    {
+     "from": "2017-01-06",
+     "units": 4,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region15",
+     "sha256": "e390d6509c0572237269d8424f7b5f32e992a8eb738621f87355327ed724fc62"
+    },
+    {
+     "from": "2017-01-12",
+     "units": 6,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region15",
+     "sha256": "20de271953308433adb4748283fd7fef2a6ef526afe45e950ffa8234ccec70d3"
+    },
+    {
+     "from": "2017-02-03",
+     "units": 7,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region15",
+     "sha256": "a41ea69bb4a7ee84c8b4a2293c030d195116c988e2b755703e86d8032a17161d"
+    },
+    {
+     "from": "2017-02-21",
+     "units": 9,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region15",
+     "sha256": "102d2d496a047e7b41a6df4b3cf4f4d7ce99d2e39f49f5846f8e64f6df245b42"
+    },
+    {
+     "from": "2017-03-02",
+     "units": 10,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region15",
+     "sha256": "052e437611e8d104de1508b7eb907ec32c63f16dc3aabe0f3a0319b71efd9356"
+    },
+    {
+     "from": "2017-03-20",
+     "units": 12,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region15",
+     "sha256": "0554b921535b01dd2c045c6726102299864a8b57a9906963f710229d68fdf0c2"
+    },
+    {
+     "from": "2017-04-13",
+     "units": 18,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region15",
+     "sha256": "ef175028d42a72873eff256b06c94aa11aa6ef98c2914ab45e5851efc70dd3c0"
+    },
+    {
+     "from": "2017-04-26",
+     "units": 19,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region15",
+     "sha256": "393ddb191daf7077f0fd7f2d46f7c3002f52496c7b311459415b15625a177b93"
+    },
+    {
+     "from": "2017-05-05",
+     "units": 20,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region15",
+     "sha256": "47b145162ea31ddd0202a09ec61456fcfa07f3d12c451e41b773202c620530fe"
+    },
+    {
+     "from": "2017-05-17",
+     "units": 31,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region15",
+     "sha256": "0eb8d90e0dca01b5ecc7592a5eec1a55e5f35e8a869cf590501a38a98e6a1a7f"
+    },
+    {
+     "from": "2017-05-18",
+     "units": 33,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region15",
+     "sha256": "af29e8b65be2a80a6db9ff5b82c5014eb8549d79decc583d15f785dae2d60f9b"
+    },
+    {
+     "from": "2017-06-01",
+     "units": 34,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region15",
+     "sha256": "d24b01419847a87a9dd49d92fb1e29910bba3f065a0837afaa036628a3bda4af"
+    },
+    {
+     "from": "2017-06-06",
+     "units": 51,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region15",
+     "sha256": "5faf1bc0475ff6e63988a74bd7482c83de2cc2ea6bf49a2d78435133faece8f8"
+    },
+    {
+     "from": "2017-06-15",
+     "units": 54,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region15",
+     "sha256": "07b5da07784e8d95acabd0cf7d5263b6143ceb108e4e9eb008ecdb3ed345ffc2"
+    },
+    {
+     "from": "2017-10-24",
+     "units": 56,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region15",
+     "sha256": "2a57d94743f43ef64407b99408b4e2b135a8d99df7321249c3005a3c7c56a998"
+    },
+    {
+     "from": "2017-10-27",
+     "units": 62,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region15",
+     "sha256": "e4f72dfe8cd8df2fc8e64783c4e6dd58e118e5842843397c4712363ba11e9735"
+    },
+    {
+     "from": "2017-10-30",
+     "units": 64,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region15",
+     "sha256": "bb70be4f6109e852d1106c322bffd41edf57d55b0a58ca5301abc688585219f0"
+    },
+    {
+     "from": "2017-11-27",
+     "units": 68,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region15",
+     "sha256": "e74537ec59acc850b6d238cffc1b2f8df1cea5179807e4c1c8fd4bd7f1c6fad3"
+    },
+    {
+     "from": "2017-12-06",
+     "units": 73,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region15",
+     "sha256": "8b6dc57a82e56ed970483474a73a447586117df530b642513b954c081aeafa41"
+    },
+    {
+     "from": "2017-12-12",
+     "units": 74,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region15",
+     "sha256": "c1278bbb7ee5bbe3e4766651a1390a49e9d8821dbbc8a4a42402e2916f4dc121"
+    },
+    {
+     "from": "2017-12-22",
+     "units": 75,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region15",
+     "sha256": "4d34a4a1957ac9ef86902761bb9f93411f175189979c12d3aa4bc9921850eaa5"
+    },
+    {
+     "from": "2017-12-26",
+     "units": 77,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region15",
+     "sha256": "2e13280a20ffd8c42aab7a62032fc0327ff045b6398c7c3da23f349cf547444b"
+    },
+    {
+     "from": "2017-12-29",
+     "units": 82,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region15",
+     "sha256": "b6021967e71714c2d86ad7c9f603d9994ae84709d159faed07506088b94ea09a"
+    }
+   ]
+  },
+  {
+   "slug": "zakony-2018",
+   "short": "Законы 2018",
+   "title": "Republic of North Ossetia-Alania: catalogue of the laws published in 2018 (facts only, no law text)",
+   "url": "http://publication.pravo.gov.ru/documents/block/region15",
+   "versions": [
+    {
+     "from": "2018-01-12",
+     "units": 2,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region15",
+     "sha256": "557fe4627f49c905fc344179764eb42791f3b995c00c0200a85e2790c0e88c1f"
+    },
+    {
+     "from": "2018-01-17",
+     "units": 3,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region15",
+     "sha256": "8c2a7f8225b7a1c70505bc97b39fe106e32b29e30ca998c445488b71ebb80aae"
+    },
+    {
+     "from": "2018-01-24",
+     "units": 4,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region15",
+     "sha256": "e02b125ec3d9ef2159622dd56abf02b95a8d81c0a2b60302e84f373b7acee271"
+    },
+    {
+     "from": "2018-02-13",
+     "units": 5,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region15",
+     "sha256": "947cd8ab394d20b9abded134447b1647e41602417fec427eeb8f3df6a82fb8ce"
+    },
+    {
+     "from": "2018-02-28",
+     "units": 8,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region15",
+     "sha256": "3e3335f5a0156aa65066a33118e5b9f4c0fe4665ed5c77df77b180876eb15351"
+    },
+    {
+     "from": "2018-03-15",
+     "units": 17,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region15",
+     "sha256": "c6f3789de7cd32477c481c03db5a38246fb405964cc937f1e1358029857a8bb8"
+    },
+    {
+     "from": "2018-04-13",
+     "units": 24,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region15",
+     "sha256": "54a2bda2ed86f33f044fbf2a94fad2c9a265473f0743be8983d9f9f479fb64a0"
+    },
+    {
+     "from": "2018-05-04",
+     "units": 25,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region15",
+     "sha256": "bd9af1930b8d703ec83d478d79ea24ba25ef639c5eb88fd129396b0c97db1249"
+    },
+    {
+     "from": "2018-05-15",
+     "units": 32,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region15",
+     "sha256": "9e0f29f267ad7b55d06d812e79106c1eb14d68ece32266e9c4f1aea8a94190c8"
+    },
+    {
+     "from": "2018-06-04",
+     "units": 33,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region15",
+     "sha256": "3000d6fd2e73d450dbebecd4941a24784702a5aa7b9d9e6fe3a9758b6519a70f"
+    },
+    {
+     "from": "2018-06-25",
+     "units": 44,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region15",
+     "sha256": "f8e63a1986728a91dbf1fdc3445d745d32713cbf858eabaf6dddef8db438dd09"
+    },
+    {
+     "from": "2018-07-04",
+     "units": 46,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region15",
+     "sha256": "182c7d0f55cf538f99770a484c213d7f6aee56ae4bdd6c1863198efbefada8d0"
+    },
+    {
+     "from": "2018-07-05",
+     "units": 55,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region15",
+     "sha256": "323c2e8b8488ec2870b2ae6d3870931dd4c1635b6f2bca3602f68d49139e2691"
+    },
+    {
+     "from": "2018-07-09",
+     "units": 56,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region15",
+     "sha256": "1c7ee9c54af6b79b0379c60098cef520c4cb20d8df48993be8221e69264a607e"
+    },
+    {
+     "from": "2018-07-10",
+     "units": 58,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region15",
+     "sha256": "6163626a2169da8a8947ef93b603eea0c8044a71b67d37dbf35dc15fe393136e"
+    },
+    {
+     "from": "2018-07-13",
+     "units": 59,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region15",
+     "sha256": "f5f37e0bd1fb8fe2bc9b6eeff1d5d92015b587f5dc440dfa80c754217b5122d0"
+    },
+    {
+     "from": "2018-10-04",
+     "units": 61,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region15",
+     "sha256": "5d62c29e31ef008be544def27e4229731fc22f919ecf8f8c42a735c006cae77c"
+    },
+    {
+     "from": "2018-10-05",
+     "units": 67,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region15",
+     "sha256": "3c355075f594761af3cb1c48f40a95169147e7ea0f24200bffae5e92e04ffd69"
+    },
+    {
+     "from": "2018-10-10",
+     "units": 72,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region15",
+     "sha256": "f9026c4524abc957a219d35fa6e636fabf9a131ee56a7fa6b4fe13229577efe0"
+    },
+    {
+     "from": "2018-11-07",
+     "units": 73,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region15",
+     "sha256": "a95ed13e3fb4a4a437ef369682c6b0f2b225fb2e54fbf5c805170d05e61e3849"
+    },
+    {
+     "from": "2018-11-08",
+     "units": 85,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region15",
+     "sha256": "9f9fae7309d363c395b5888b9769787aed0df7ad6edd35b9590907cf7c7796b3"
+    },
+    {
+     "from": "2018-11-13",
+     "units": 86,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region15",
+     "sha256": "4c5a12d6de162e90aa609f03479c4382fd5886b127b88257c98e33be523fc50b"
+    },
+    {
+     "from": "2018-11-30",
+     "units": 90,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region15",
+     "sha256": "26284677c117a146adb586360a3903b523289d317a04afdc886fbc69425f4076"
+    },
+    {
+     "from": "2018-12-12",
+     "units": 98,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region15",
+     "sha256": "6227c1435468caa4a78e45fe34df86f477685731f6ce98886740897442c98c01"
+    },
+    {
+     "from": "2018-12-28",
+     "units": 100,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region15",
+     "sha256": "812b68386f97fdf15409531267c4c86ed9c6365add8b42daf95ab02d9123acdd"
+    }
+   ]
+  },
+  {
+   "slug": "zakony-2019",
+   "short": "Законы 2019",
+   "title": "Republic of North Ossetia-Alania: catalogue of the laws published in 2019 (facts only, no law text)",
+   "url": "http://publication.pravo.gov.ru/documents/block/region15",
+   "versions": [
+    {
+     "from": "2019-01-09",
+     "units": 5,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region15",
+     "sha256": "9420b59e64ea24482bcae71433017ed6f09880956d00e72fb989e1b74fdb5099"
+    },
+    {
+     "from": "2019-01-17",
+     "units": 7,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region15",
+     "sha256": "4eb1d617863612a75c2c93b69f92b3ad22be8671bd4893f1107d23db0e6d32df"
+    },
+    {
+     "from": "2019-02-14",
+     "units": 10,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region15",
+     "sha256": "92ca9c4288da9f9d54480ca873a0e7885a48b85a4e1716da640f23fd23f7edaa"
+    },
+    {
+     "from": "2019-02-15",
+     "units": 11,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region15",
+     "sha256": "f0985b0e441bcfb090d14c36846dab20d99110bffe44a6d9b312df43445936f1"
+    },
+    {
+     "from": "2019-03-07",
+     "units": 12,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region15",
+     "sha256": "0644ba63cb1464e5230297888e1ad738191dfaf07a06bd19422e605e43e1a18c"
+    },
+    {
+     "from": "2019-03-13",
+     "units": 17,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region15",
+     "sha256": "3245d648ba1dbcc1b02347f99af071ac16627aa7ef6c4b02cb4f28903c777093"
+    },
+    {
+     "from": "2019-04-10",
+     "units": 22,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region15",
+     "sha256": "72497324a2970e70493ba856a82be6a16cd2e1c43a5f84524f8eaced84570658"
+    },
+    {
+     "from": "2019-04-30",
+     "units": 23,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region15",
+     "sha256": "c1dd35e5f6db15d9bcfe88679f5e098d9d3917c8fc614d05249c539e5dfd81ad"
+    },
+    {
+     "from": "2019-05-16",
+     "units": 32,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region15",
+     "sha256": "845b0ae59f59bed1ae401804545797b1504cd52678b55bc73b72318691fb03ce"
+    },
+    {
+     "from": "2019-06-18",
+     "units": 38,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region15",
+     "sha256": "c452fc4b05b67c5f96e77abadbc48504d15f8db00eb249a92e612215d0736bd9"
+    },
+    {
+     "from": "2019-07-02",
+     "units": 41,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region15",
+     "sha256": "16bf0f0913662b3d3635d95da86a486ce9c4772e94e69a96257c10e042fa92b4"
+    },
+    {
+     "from": "2019-07-04",
+     "units": 42,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region15",
+     "sha256": "30bd43c4d7c2ed4de0dcc6a0aa1fbb6f26689e6bd3c44bd541d1a686e9175ade"
+    },
+    {
+     "from": "2019-07-09",
+     "units": 43,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region15",
+     "sha256": "6f5f173fec2f8d0570c253602c6b444d7ddb9a82e1b755ffc27a0ac3c7c94076"
+    },
+    {
+     "from": "2019-07-12",
+     "units": 48,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region15",
+     "sha256": "ec99bb651eda939a31da53856eac625c2a5157c2df2fef5793adaf527108268c"
+    },
+    {
+     "from": "2019-09-13",
+     "units": 49,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region15",
+     "sha256": "7f8ef97a971c9fe4278877661f7ea3369632a4403debcc04e2b089bd52dfdf8d"
+    },
+    {
+     "from": "2019-09-18",
+     "units": 50,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region15",
+     "sha256": "fabb32c975cded10111f475c7958991bb812606a76e22513f8ea1e9711ac4dc3"
+    },
+    {
+     "from": "2019-09-20",
+     "units": 54,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region15",
+     "sha256": "ea952f76335a095a7d2058f7e5f574748ee1f9ac9c7e9b349ecc54cc6488a8e6"
+    },
+    {
+     "from": "2019-11-13",
+     "units": 64,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region15",
+     "sha256": "fdc4feaebf28bfa215df816dcda1e68abbddcaf6049199c7e9bc6293652eb888"
+    },
+    {
+     "from": "2019-12-06",
+     "units": 72,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region15",
+     "sha256": "63754fb90de20406c598c9571d3b93db948665906a24f28c7b4cc71f14e9d6f1"
+    },
+    {
+     "from": "2019-12-16",
+     "units": 80,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region15",
+     "sha256": "b41905a1b93bdef7976a7e33b61d2dd34aaf578416d3a9347be77d5f54ffbf44"
+    },
+    {
+     "from": "2019-12-30",
+     "units": 85,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region15",
+     "sha256": "2263e854aa35c2f194ec6f19a7b3f791cbde68a6c88dad736cca9a3d5bd23286"
+    }
+   ]
+  },
+  {
+   "slug": "zakony-2020",
+   "short": "Законы 2020",
+   "title": "Republic of North Ossetia-Alania: catalogue of the laws published in 2020 (facts only, no law text)",
+   "url": "http://publication.pravo.gov.ru/documents/block/region15",
+   "versions": [
+    {
+     "from": "2020-01-16",
+     "units": 8,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region15",
+     "sha256": "6e66cabec98b8b14010c513d6f160469998eee497981cb4106214d3568543117"
+    },
+    {
+     "from": "2020-02-07",
+     "units": 14,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region15",
+     "sha256": "cef238a9903d632502a0322def1e7c5c745e14a7f320060bb2b1d7cb8aa6412e"
+    },
+    {
+     "from": "2020-02-10",
+     "units": 15,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region15",
+     "sha256": "55851130039acf40a1cb9b5f2a7c13547054323b4956a01374d7a698359fd658"
+    },
+    {
+     "from": "2020-03-10",
+     "units": 20,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region15",
+     "sha256": "b53c8fce6fedbca9753aa837c2bdbd1f6b4843b5be170868f8d7a514ad30a21d"
+    },
+    {
+     "from": "2020-04-06",
+     "units": 28,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region15",
+     "sha256": "1284024d095326c9456db6bb7a3c26a26f010c2cd6030e8f72886d9e3e17d9c3"
+    },
+    {
+     "from": "2020-04-21",
+     "units": 29,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region15",
+     "sha256": "6511b8397b6f956ad5def585412565dd28984be1254dc4684e699e5151d01295"
+    },
+    {
+     "from": "2020-04-22",
+     "units": 30,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region15",
+     "sha256": "274a3ba89f40dd955061bb3ed469d8be35ff9f81426c98bd12ea44783f3a5e61"
+    },
+    {
+     "from": "2020-04-24",
+     "units": 31,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region15",
+     "sha256": "b1e37224b959d6d4d6b6e549158fc7e86b9d3c2f3c058c1dbaa5441b38bc25d1"
+    },
+    {
+     "from": "2020-06-23",
+     "units": 38,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region15",
+     "sha256": "a01a4d9aeae5e59baad84721adf7912303200f764e5328cdacb9e14904ada133"
+    },
+    {
+     "from": "2020-06-26",
+     "units": 44,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region15",
+     "sha256": "2c6e23fcdfb114cfc01359442f3f1fc947c5bb649e940621b7d43dcc22ac9945"
+    },
+    {
+     "from": "2020-09-10",
+     "units": 45,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region15",
+     "sha256": "a814e87352c3cffa63b84ed65883a6a31db4b8a2c114df0ac2119337fa002c32"
+    },
+    {
+     "from": "2020-09-14",
+     "units": 46,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region15",
+     "sha256": "a5fc63458562bf64214eb3b6e1c1e3fe84b5f680006ded843c87d5d404b7001e"
+    },
+    {
+     "from": "2020-09-16",
+     "units": 61,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region15",
+     "sha256": "a4163531d26e81e5c04548a73b3d1fad297d099b7d20889a59c44061cb65b73e"
+    },
+    {
+     "from": "2020-11-03",
+     "units": 62,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region15",
+     "sha256": "c84b34e3267c4b54c26b1ec2ab73e33840bc3f61ae9749fcf7d003966972327f"
+    },
+    {
+     "from": "2020-11-05",
+     "units": 63,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region15",
+     "sha256": "2bb14e8f4f3ebbe754cb31c5b40dd38fcf70885450131eb0d0d3b8501ee13f6b"
+    },
+    {
+     "from": "2020-11-06",
+     "units": 64,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region15",
+     "sha256": "9a031d1757d368c7e44ddbb055b3d4c1b7696643d1faeb08b2390578295d0027"
+    },
+    {
+     "from": "2020-11-09",
+     "units": 85,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region15",
+     "sha256": "43173ba2b7d1864246157d673d6ff37ee3676eda9d7d4b993cbd9d82e664b966"
+    },
+    {
+     "from": "2020-12-03",
+     "units": 100,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region15",
+     "sha256": "4eb088dcdedd6168293076e327fe63d9cbe6788677a7a7c0caa9d8db78a36b06"
+    },
+    {
+     "from": "2020-12-09",
+     "units": 105,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region15",
+     "sha256": "cf6f5f8fcd62f005ba95cd5ff70fbf9d5957eb3fdaf0c9b27f570c7d1da905d7"
+    },
+    {
+     "from": "2020-12-28",
+     "units": 109,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region15",
+     "sha256": "c2474148300077d600226164c625b9518ba1f07dc6163db26ccc615d4450b7f8"
+    },
+    {
+     "from": "2020-12-29",
+     "units": 111,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region15",
+     "sha256": "8b34fcb1dae5d3493ce75d47dbd8c775a739bbff4f22f10fe24eccae3701b6cc"
+    },
+    {
+     "from": "2020-12-31",
+     "units": 118,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region15",
+     "sha256": "81bc653f5b0cca3e9bc8a8e705e8a6268e59209a042c4cf3c668d99b10e0172b"
+    }
+   ]
+  },
+  {
+   "slug": "zakony-2021",
+   "short": "Законы 2021",
+   "title": "Republic of North Ossetia-Alania: catalogue of the laws published in 2021 (facts only, no law text)",
+   "url": "http://publication.pravo.gov.ru/documents/block/region15",
+   "versions": [
+    {
+     "from": "2021-01-14",
+     "units": 2,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region15",
+     "sha256": "6f691d46d58c4a16480bb7b7d0800b0a0625c76a55b6e3cc8b83c3730ace0c5d"
+    },
+    {
+     "from": "2021-02-04",
+     "units": 4,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region15",
+     "sha256": "87626388a0b5bbd12a9dde6c327b7c9a95652aa0583b5f8528775fa6461cf773"
+    },
+    {
+     "from": "2021-03-03",
+     "units": 6,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region15",
+     "sha256": "eb62da3a90bf644ab076be35f5468eabea59d393851bace854023570ce8f9767"
+    },
+    {
+     "from": "2021-03-04",
+     "units": 7,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region15",
+     "sha256": "c930bd602969444893fcc2793aeb42f32e007ff931397ca9a91ec5b03425383a"
+    },
+    {
+     "from": "2021-03-05",
+     "units": 15,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region15",
+     "sha256": "f8290733183e6a40e2457066fc420fbb0f2392272692cbde7b42bc692267609f"
+    },
+    {
+     "from": "2021-03-30",
+     "units": 22,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region15",
+     "sha256": "b84af772617463f7894c456a8313ac92c957a227305c31d39ef7d264026c428b"
+    },
+    {
+     "from": "2021-04-01",
+     "units": 26,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region15",
+     "sha256": "ba433f610313aa0d6069bdced82ed728028d9f14bdc0ef6f702971cbc50fbc85"
+    },
+    {
+     "from": "2021-05-04",
+     "units": 27,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region15",
+     "sha256": "c39795099c936f09ae0ca4a413080e5480223835bf02a04aa5fc1acf214c2d74"
+    },
+    {
+     "from": "2021-05-12",
+     "units": 33,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region15",
+     "sha256": "928a12bcba29c4b477899252378e9d086496bcf9fb71d2a79ee5cfb03863c215"
+    },
+    {
+     "from": "2021-06-02",
+     "units": 42,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region15",
+     "sha256": "791c0681f212b38f36b175ff3635621fda83766e258377e720c930ce3bce54a4"
+    },
+    {
+     "from": "2021-06-10",
+     "units": 47,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region15",
+     "sha256": "2bbc07462424bf13e8f2eb623d42406edd367c2291d26cb3b5587c9907ac721b"
+    },
+    {
+     "from": "2021-06-30",
+     "units": 49,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region15",
+     "sha256": "9a39715f769718d03d94cec72588002d81596208305a543f1687201f282cd031"
+    },
+    {
+     "from": "2021-07-01",
+     "units": 51,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region15",
+     "sha256": "38918a72200092b03687c1e942079a07de142514bdd35873353db015efff7d75"
+    },
+    {
+     "from": "2021-07-07",
+     "units": 57,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region15",
+     "sha256": "762ed44c918d72f78e40cadc83a2eee1fbdf010d559059fdf42399379d1bd85a"
+    },
+    {
+     "from": "2021-07-14",
+     "units": 58,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region15",
+     "sha256": "145968ecb6c1e61c21f538ad2b744331718c85475b1522071796249468b1d976"
+    },
+    {
+     "from": "2021-10-08",
+     "units": 62,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region15",
+     "sha256": "385b4b46ce54dc5658232ad2d1e0204bcbef6b52412134ee30757dbf54ec9a72"
+    },
+    {
+     "from": "2021-10-15",
+     "units": 67,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region15",
+     "sha256": "44bfedbc0c8ff6e0f69d095f6a8bb17dd685461d646ff56b878e6fe8fd610906"
+    },
+    {
+     "from": "2021-11-11",
+     "units": 69,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region15",
+     "sha256": "655eba9a398b44d9a1ca8d3bff662e12ababa64cf560370633f34dcfdb8777af"
+    },
+    {
+     "from": "2021-11-16",
+     "units": 77,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region15",
+     "sha256": "0a08aa8f0523be58cdcdd48a2bf9d3fbf02eb356499d7e06f82e844505505aef"
+    },
+    {
+     "from": "2021-11-17",
+     "units": 97,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region15",
+     "sha256": "b64fc813f381df9b7445eecf4e9e06441a50ca13c1444147feeba2139085970b"
+    },
+    {
+     "from": "2021-11-26",
+     "units": 98,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region15",
+     "sha256": "42bef377addd808085f81bf3a3e977a5a25f1ad4bf60b92da8193817abe3e4b5"
+    },
+    {
+     "from": "2021-12-07",
+     "units": 115,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region15",
+     "sha256": "f08666d402d26f1a73c35363939940ba2e2428e2a105aeb8ee69af6e42301152"
+    },
+    {
+     "from": "2021-12-23",
+     "units": 116,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region15",
+     "sha256": "73dd709e6e059f666a00777698e13097d104f6a0f69e49d0a51bb4e5b8438354"
+    },
+    {
+     "from": "2021-12-28",
+     "units": 124,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region15",
+     "sha256": "42e2662c0c97c4b8690d385670b89abb177af52d219633ebacbb1a99621a368a"
+    }
+   ]
+  },
+  {
+   "slug": "zakony-2022",
+   "short": "Законы 2022",
+   "title": "Republic of North Ossetia-Alania: catalogue of the laws published in 2022 (facts only, no law text)",
+   "url": "http://publication.pravo.gov.ru/documents/block/region15",
+   "versions": [
+    {
+     "from": "2022-02-04",
+     "units": 4,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region15",
+     "sha256": "f7dbb6fe5b37549e42bf10d40bf68ff355c66052475e4baa572632673a7450ab"
+    },
+    {
+     "from": "2022-03-10",
+     "units": 10,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region15",
+     "sha256": "4e17f49067590b9d59edc671dc12e020ef9db36d0bb372b506761c95d62b2fa5"
+    },
+    {
+     "from": "2022-03-18",
+     "units": 11,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region15",
+     "sha256": "bfe302633deb7c9ff7a69c9f7de53a9034ecb3ae42030f39b955e24fe3bde826"
+    },
+    {
+     "from": "2022-04-07",
+     "units": 19,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region15",
+     "sha256": "1e01dbb08f55edd7198890d43f07844eae75621f322ec8ce32d4b7061fe58fd5"
+    },
+    {
+     "from": "2022-04-12",
+     "units": 20,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region15",
+     "sha256": "f1363efdc9fd21a405bec03ef4651139a5f981dfe5005aa8885acd19506db17a"
+    },
+    {
+     "from": "2022-05-12",
+     "units": 28,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region15",
+     "sha256": "1f7618f446fd304940ffbf8885c907a6d35e7b5116cdbb1151250c285ec33a93"
+    },
+    {
+     "from": "2022-06-06",
+     "units": 48,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region15",
+     "sha256": "e5e7934f3777730ead1503dace329dceff201fb0a156e1f131e02114003f9b7d"
+    },
+    {
+     "from": "2022-06-09",
+     "units": 49,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region15",
+     "sha256": "70a28548eac4ffb51169ed1fbf538ada48ead5643547531a9ca89aa4efa14c2e"
+    },
+    {
+     "from": "2022-06-14",
+     "units": 50,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region15",
+     "sha256": "9f7e163bfb18de88b4e39cf0a5608d66575dfa3de991708e17429dd0ce9eda12"
+    },
+    {
+     "from": "2022-07-08",
+     "units": 63,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region15",
+     "sha256": "fb34e3ecc099250603394b8e6006ad8af17032d6628191ea22a1385e78402c1b"
+    },
+    {
+     "from": "2022-07-28",
+     "units": 65,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region15",
+     "sha256": "11403b17c563b1486a4a7c2af0c3fd48cce34e161f9b6659200372c877ea99bf"
+    },
+    {
+     "from": "2022-11-03",
+     "units": 70,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region15",
+     "sha256": "f82c6349ea0e12865e2e3db7fade010587ec298218ec30e143105df632ab09c3"
+    },
+    {
+     "from": "2022-11-10",
+     "units": 71,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region15",
+     "sha256": "639145e48abfc1db4b3cc5b149258716472fcb526a95b564eb933c20751c0467"
+    },
+    {
+     "from": "2022-11-28",
+     "units": 75,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region15",
+     "sha256": "3ed854436cdc758090c979a0d59db9a6d50ec95c64974905acf1a88ade8c3b2c"
+    },
+    {
+     "from": "2022-12-06",
+     "units": 85,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region15",
+     "sha256": "9c300ab515cb0d287aab9dadf39305042f6b8327b193f3475848540600d96358"
+    },
+    {
+     "from": "2022-12-14",
+     "units": 86,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region15",
+     "sha256": "34091c1e0c13fa45f9a5f011c316fcffbecb1e2a2637fc471a3374f99e5dc711"
+    },
+    {
+     "from": "2022-12-23",
+     "units": 87,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region15",
+     "sha256": "617f10c0517a922017b875046b8c9152155d74a0fd99753a6b5fe139d0c56c1d"
+    },
+    {
+     "from": "2022-12-27",
+     "units": 101,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region15",
+     "sha256": "c7df024b233d51e49fce3383681022a95e1eff29e79c5200cd87ab9db17db4d7"
+    }
+   ]
+  },
+  {
+   "slug": "zakony-2023",
+   "short": "Законы 2023",
+   "title": "Republic of North Ossetia-Alania: catalogue of the laws published in 2023 (facts only, no law text)",
+   "url": "http://publication.pravo.gov.ru/documents/block/region15",
+   "versions": [
+    {
+     "from": "2023-02-10",
+     "units": 5,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region15",
+     "sha256": "66ccb0e030002f9aedde3bbd60f471d0c2e59c1f3c33e9bf17e1213c1a1813c5"
+    },
+    {
+     "from": "2023-03-07",
+     "units": 8,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region15",
+     "sha256": "4ea86ad9f04f3d030f934e7dbff9a778a44e3454deca1cb6565b1b5028adab50"
+    },
+    {
+     "from": "2023-03-31",
+     "units": 10,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region15",
+     "sha256": "69afcc85261c6f7cebccc055748199286f7db219fcb2bcd84630bf4ed8e45f3c"
+    },
+    {
+     "from": "2023-04-07",
+     "units": 18,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region15",
+     "sha256": "c5c25f40ce1c5eaea591818bb8b134819dde2dcf0f6736c7757c57d9e1275d40"
+    },
+    {
+     "from": "2023-05-02",
+     "units": 28,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region15",
+     "sha256": "cffa003d2e5cbedc78afef2b7f3de5901d3b7c1a8dcc507bfd5d30d70983d398"
+    },
+    {
+     "from": "2023-05-30",
+     "units": 29,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region15",
+     "sha256": "3337922a1c54d9b710ced078da5f5e71f6bee66483e72adff2c92f904ea9c809"
+    },
+    {
+     "from": "2023-06-02",
+     "units": 35,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region15",
+     "sha256": "1348c186aa36666f4ff3106a6de85d68e4a9517f4a6ce57c5044647fa9d56818"
+    },
+    {
+     "from": "2023-07-07",
+     "units": 39,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region15",
+     "sha256": "e7d531558b27dac8ca258ddf27c7916e523e5ac197cf3c9240d034e13b6f95d6"
+    },
+    {
+     "from": "2023-07-11",
+     "units": 54,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region15",
+     "sha256": "589b2a9bf4251872cdaa512c4f6a25896db8086e33ad396861c9a302d0500782"
+    },
+    {
+     "from": "2023-07-14",
+     "units": 57,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region15",
+     "sha256": "d50c2331ae1ff03c428fa530825fbf25ab06951e89a83cc073b99ca3158c8df8"
+    },
+    {
+     "from": "2023-10-04",
+     "units": 62,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region15",
+     "sha256": "292659d957df5465d9a68f454c6e73ce89fca0ecdea164f37d0723e2d45f994c"
+    },
+    {
+     "from": "2023-10-12",
+     "units": 64,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region15",
+     "sha256": "14eaf85c1a2d966739b38dce5ace7decf280d627a83d9f0a8a091708c37407fe"
+    },
+    {
+     "from": "2023-10-20",
+     "units": 65,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region15",
+     "sha256": "6b77b1e2b5a0ad5dc41c582049ba9c32caeec37f492062f7d8c2ed19ba221a62"
+    },
+    {
+     "from": "2023-11-01",
+     "units": 67,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region15",
+     "sha256": "7bbc0a9c9a2bcc784c9539e0ebe69376d89782de3a26aebe48f5c337e25fd456"
+    },
+    {
+     "from": "2023-11-02",
+     "units": 71,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region15",
+     "sha256": "09bca0401484a2bbf5abe040f620abd3dd5ea7758821a348332bd581748b2685"
+    },
+    {
+     "from": "2023-11-03",
+     "units": 72,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region15",
+     "sha256": "11869012cb78bd4b77b2b1918264422ae8982a88705ef7700e8355ec63a8a3b6"
+    },
+    {
+     "from": "2023-11-08",
+     "units": 75,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region15",
+     "sha256": "9ef6476db306735c72a4b304061dc9abc47761ed2af759639df6ae401eb41c14"
+    },
+    {
+     "from": "2023-11-30",
+     "units": 76,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region15",
+     "sha256": "ba47291eba3767d68c6990e038e72d13191afe01b3f7e5c2c9ca18c4425169f8"
+    },
+    {
+     "from": "2023-12-11",
+     "units": 90,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region15",
+     "sha256": "2ceff042c96510bc1e4e0355964a51ebe44c205564ab3fa151e4eb4c59107395"
+    },
+    {
+     "from": "2023-12-26",
+     "units": 91,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region15",
+     "sha256": "ac3a6db0d4cad45f4f214b501ac32bb120251d688c49db81368a5af120324be1"
+    },
+    {
+     "from": "2023-12-28",
+     "units": 105,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region15",
+     "sha256": "10a80f8ee0ffe45d98f021458baa208c76eb3b00008013364f45560a77df4bff"
+    }
+   ]
+  },
+  {
+   "slug": "zakony-2024",
+   "short": "Законы 2024",
+   "title": "Republic of North Ossetia-Alania: catalogue of the laws published in 2024 (facts only, no law text)",
+   "url": "http://publication.pravo.gov.ru/documents/block/region15",
+   "versions": [
+    {
+     "from": "2024-01-10",
+     "units": 3,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region15",
+     "sha256": "db21ad32c8a614c8dcb1b6d08458a71296c7279cd0b7d9e68c35cde8f0a691c3"
+    },
+    {
+     "from": "2024-02-09",
+     "units": 4,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region15",
+     "sha256": "413e8cf706ee371678b5505733e944345a9b8186fb305499aa94972e8361d25e"
+    },
+    {
+     "from": "2024-02-14",
+     "units": 9,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region15",
+     "sha256": "cafbaeec7ad2d7e1f1a9cfa8b63acc5ee84c23644bd5f6b5bffd99b7eb02fb59"
+    },
+    {
+     "from": "2024-03-14",
+     "units": 14,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region15",
+     "sha256": "24e72843f50730a4241a8f28cac3da2af1287667dec71ed9233895124b24ab96"
+    },
+    {
+     "from": "2024-03-18",
+     "units": 16,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region15",
+     "sha256": "d982ece4f1e29a1333fafaca1e54c6348ed154777bc2d5c723ea662e84d82b5a"
+    },
+    {
+     "from": "2024-04-04",
+     "units": 26,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region15",
+     "sha256": "60449d8e42ae42480a9f89939aa2cf1c752941b28250c2833250e740c465a1a4"
+    },
+    {
+     "from": "2024-04-25",
+     "units": 27,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region15",
+     "sha256": "d81aa4a870f69f7544c8a23751576c21da39f854ac28c549753cb9c1a091bd7d"
+    },
+    {
+     "from": "2024-05-07",
+     "units": 34,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region15",
+     "sha256": "823036fd7c3b7a11c201bb3477121198afa7e41d18c2090bee7365631490ea54"
+    },
+    {
+     "from": "2024-06-04",
+     "units": 35,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region15",
+     "sha256": "15b45287ff0bc86c8bf532fd1494e7841df3bed7a332e531f3de8666494bad01"
+    },
+    {
+     "from": "2024-06-10",
+     "units": 36,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region15",
+     "sha256": "cf7780451fa5a1084e568d36816f796561e727c1f76339051bf51f85cf6cc6e4"
+    },
+    {
+     "from": "2024-06-18",
+     "units": 45,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region15",
+     "sha256": "8393792e47673e98bcf63faf04a1e0549ab4e201be82874faf4437d0d581703d"
+    },
+    {
+     "from": "2024-07-02",
+     "units": 46,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region15",
+     "sha256": "579214937776b0e71bb6aa067fd4ebb242e8a0121f4b36c3f6be9e3d01b75e57"
+    },
+    {
+     "from": "2024-07-04",
+     "units": 56,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region15",
+     "sha256": "baa01bd5366f28bf8a83cbc0222c63c0fd051b732f7f18b9c854cda226a4f74b"
+    },
+    {
+     "from": "2024-10-09",
+     "units": 61,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region15",
+     "sha256": "83d399d1fad06a22bbd26e5ce197bfb0fc3d03d460beec0916f19f0a0217d929"
+    },
+    {
+     "from": "2024-10-22",
+     "units": 62,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region15",
+     "sha256": "13f3e459065cca4260b6f90e306e1797dc6b47ca4dbcae461b2a6803baf37413"
+    },
+    {
+     "from": "2024-11-13",
+     "units": 76,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region15",
+     "sha256": "bd0c43c72db9f7807c910a6957926291dae5fdb19b1df308ca3f5b4789e29944"
+    },
+    {
+     "from": "2024-11-29",
+     "units": 79,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region15",
+     "sha256": "cc31d2b2f94b5d550d225b4395a1291ee599c0144f644716cef282f9c2e2ff45"
+    },
+    {
+     "from": "2024-12-05",
+     "units": 91,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region15",
+     "sha256": "02a15db7e0f500c8b8efa321b95c8e11b4393323455a1be72a7fb65aef1f103c"
+    },
+    {
+     "from": "2024-12-11",
+     "units": 92,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region15",
+     "sha256": "7e10e3b25ef5662cb41d35327d3d2ba19360f39c7a55f378955b44d391e500bd"
+    },
+    {
+     "from": "2024-12-25",
+     "units": 109,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region15",
+     "sha256": "bc3810df3dee5974bacd6154c64678fe86f4cbd189e81b1d00788e5375903969"
+    }
+   ]
+  },
+  {
+   "slug": "zakony-2025",
+   "short": "Законы 2025",
+   "title": "Republic of North Ossetia-Alania: catalogue of the laws published in 2025 (facts only, no law text)",
+   "url": "http://publication.pravo.gov.ru/documents/block/region15",
+   "versions": [
+    {
+     "from": "2025-02-07",
+     "units": 3,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region15",
+     "sha256": "5997092e72894c8a38d31fe6b32d4c7f076d365d064646ae907c21e46bf8bcd3"
+    },
+    {
+     "from": "2025-03-05",
+     "units": 8,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region15",
+     "sha256": "ff1e0e5408a5846a0fcb8bf7ce0eb10ad619f94dc4876e43722fca8ae3259657"
+    },
+    {
+     "from": "2025-04-02",
+     "units": 17,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region15",
+     "sha256": "a5a79e368483b81609fa4f4f11fe6556f587edde9bbc00669049910b94e08633"
+    },
+    {
+     "from": "2025-05-05",
+     "units": 26,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region15",
+     "sha256": "2e9715dea426712df6466988139b79c2fbe1ad7d7cb933555421fa1e3da645a3"
+    },
+    {
+     "from": "2025-06-10",
+     "units": 33,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region15",
+     "sha256": "fe14f93291e96cb2f145aafff11442eb3a265ddd5dcc119f8468bdf86ed4815a"
+    },
+    {
+     "from": "2025-07-01",
+     "units": 36,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region15",
+     "sha256": "b0a084ad65bba0c1113d0cce7513848aeeeacebbbc6754f14493afb90ee21bfb"
+    },
+    {
+     "from": "2025-07-03",
+     "units": 41,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region15",
+     "sha256": "e43779ebaa2dc4467d197ecfdafaa7bcdb2c810dfefb7347529468c978a2bf9e"
+    },
+    {
+     "from": "2025-07-04",
+     "units": 49,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region15",
+     "sha256": "38023e4eb1929ae327970d9b9e99a124e3b26e94977792db13aa314bbbedaf73"
+    },
+    {
+     "from": "2025-09-25",
+     "units": 50,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region15",
+     "sha256": "47fa3ab0a9573649c263a7fa197bb95e14437ad6c96a7f0479450bb2689cd29e"
+    },
+    {
+     "from": "2025-09-29",
+     "units": 55,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region15",
+     "sha256": "46f4d5bb2b8c39afb181a5abebe2942222d9c91a620c3baf4b00f6603de5df3f"
+    },
+    {
+     "from": "2025-11-11",
+     "units": 71,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region15",
+     "sha256": "420ed94d561785d0858283c7d75a402b95a30d9bb21b4332fbc006520c168b6c"
+    },
+    {
+     "from": "2025-11-26",
+     "units": 72,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region15",
+     "sha256": "5b0458679833d5fa9bc43ba6f001d16aaa00168a26de556f7afde009a3e92983"
+    },
+    {
+     "from": "2025-12-04",
+     "units": 77,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region15",
+     "sha256": "7cbb90e6d951894fe3f15748c29cbff0dc98934a3d83a7fa70db14bc5256518a"
+    },
+    {
+     "from": "2025-12-05",
+     "units": 80,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region15",
+     "sha256": "20f470fd1096345857b429f482621a945169af906dd949625dcdbe412b8609cb"
+    },
+    {
+     "from": "2025-12-29",
+     "units": 96,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region15",
+     "sha256": "ce68fa722f4ed9c10991cdab159d1a1f66e3670914978bb4dfe93c48fb582fc3"
+    }
+   ]
+  },
+  {
+   "slug": "zakony-2026",
+   "short": "Законы 2026",
+   "title": "Republic of North Ossetia-Alania: catalogue of the laws published in 2026 (facts only, no law text)",
+   "url": "http://publication.pravo.gov.ru/documents/block/region15",
+   "versions": [
+    {
+     "from": "2026-02-09",
+     "units": 4,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region15",
+     "sha256": "a280b33aa50b7d3f8770a59197fa91ab52a5828fe3bf6cb290584e426bad755d"
+    },
+    {
+     "from": "2026-03-05",
+     "units": 5,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region15",
+     "sha256": "af90ff7428c6926207aa1cf9021cde44e87ad9d4ea34cc915782d900f1b936cb"
+    },
+    {
+     "from": "2026-03-06",
+     "units": 11,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region15",
+     "sha256": "f20b94bde9789d2e53474592cf69213716e226e04544fa15eeeaa3f98b4e2dbd"
+    },
+    {
+     "from": "2026-04-01",
+     "units": 16,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region15",
+     "sha256": "55e70f16b4fefd037d9259adb8deaed879ef60331d398d1c992fbc0e789512eb"
+    },
+    {
+     "from": "2026-05-05",
+     "units": 29,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region15",
+     "sha256": "a704d57c0bd031142c4cf363f30d279999cc5f7eecb1d6ec8c9574c9b0004632"
+    },
+    {
+     "from": "2026-06-16",
+     "units": 36,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region15",
+     "sha256": "f8517a4d6e2d4d759964cfe131ec61095e7990206d734bbe1017899190f13624"
+    },
+    {
+     "from": "2026-07-07",
+     "units": 54,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region15",
+     "sha256": "c361332f59ddc9d3355c097249afd43800dcc4ef1d4545e0394d5ada64f8b4fd"
+    },
+    {
+     "from": "2026-10-02",
+     "units": 57,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region15",
+     "sha256": "0f6d5c69869eb440eda77df87b97ec068bbc10f7b18603af990559312d1c5e7f"
+    },
+    {
+     "from": "2026-10-14",
+     "units": 58,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region15",
+     "sha256": "b198f8c7c6f751b3940dbf5b853dc76d41c38bd36dc2dfeca4f64f43a76ca084"
+    }
+   ]
+  }
+ ]
+}
