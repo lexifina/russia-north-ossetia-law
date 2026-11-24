@@ -1,0 +1,83 @@
+{
+ "parts": {
+  "30-zakony-2015.json": {
+   "acts": [
+    "zakony-2015"
+   ],
+   "sha256": "b6351929b70fdda6e8cfefaee0f0abe30cd8f8ad9ed20d942240b829c4e78db2"
+  },
+  "30-zakony-2016.json": {
+   "acts": [
+    "zakony-2016"
+   ],
+   "sha256": "81289c5f6a653b8f3becd8fc72511076e0fa868c09f8b35a5518b2b9f3c17f33"
+  },
+  "30-zakony-2017.json": {
+   "acts": [
+    "zakony-2017"
+   ],
+   "sha256": "7390ea9774a62b768c9524e00adf0d9fe039ab4d97f4beec0dcace6e2a519137"
+  },
+  "30-zakony-2018.json": {
+   "acts": [
+    "zakony-2018"
+   ],
+   "sha256": "0ea3447bc3bb01ac7d41fd6a516be1b4fc3c5ea4336cc76f8d6d7919bee5275e"
+  },
+  "30-zakony-2019.json": {
+   "acts": [
+    "zakony-2019"
+   ],
+   "sha256": "8c3a08c2128dc655d97e8492853dc54658bb8d1954b3d21bded25a72f440c851"
+  },
+  "30-zakony-2020.json": {
+   "acts": [
+    "zakony-2020"
+   ],
+   "sha256": "fe56b53327d57887f19fff4f8e5fd87efb172b82925caf765d628cf13183fdd4"
+  },
+  "30-zakony-2021.json": {
+   "acts": [
+    "zakony-2021"
+   ],
+   "sha256": "a6f4f0b0905d36a800c04c4bd7bdffdb504c54eec57cd420bccbad7d02fdf4a8"
+  },
+  "30-zakony-2022.json": {
+   "acts": [
+    "zakony-2022"
+   ],
+   "sha256": "174b38db85f3dcdff875b6a7dc90dfd3001d9f1a3742f2d6919a32199c125236"
+  },
+  "30-zakony-2023.json": {
+   "acts": [
+    "zakony-2023"
+   ],
+   "sha256": "d5f681c57f95ae847d7fdddce1e8e13863e167953a1c41fb13a418ae7440558a"
+  },
+  "30-zakony-2024.json": {
+   "acts": [
+    "zakony-2024"
+   ],
+   "sha256": "9b8ef285c7fceb36cdc82f64bb34546c210ca1c35ea9c3a016c69f69757375ff"
+  },
+  "30-zakony-2025.json": {
+   "acts": [
+    "zakony-2025"
+   ],
+   "sha256": "7fa924ece020707e0442586d5ea48ce1573db63a06277997fa7e0d23d9aaa1c8"
+  },
+  "30-zakony-2026.json": {
+   "acts": [
+    "zakony-2026"
+   ],
+   "sha256": "3f2c5ec7fac846852e8e66e67e8a4b937b855a279045af019c76f50e9a09c5b1"
+  },
+  "95-watch-20261124-001.json": {
+   "acts": [
+    "zakony-2026"
+   ],
+   "sha256": "2b7d05cb1458b930595b824e2970ddd969164f8c78736df6f1c2f985844c8336"
+  }
+ },
+ "schema": 1
+}
