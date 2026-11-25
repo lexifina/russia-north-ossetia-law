@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-24T14:23:20Z",
+ "generated": "2026-11-25T07:01:18Z",
  "latest": {
   "pravo-north-ossetia|russia/north-ossetia/acts": {
    "attempt": 1,
@@ -13,90 +13,42 @@
    },
    "census": {
     "checked": 1111,
-    "current": 1095,
+    "current": 1111,
     "gone": 0,
-    "held": 1095,
-    "newest_in_repo": "2026-10-14",
-    "pending": 16,
-    "repo": 1095,
+    "held": 1111,
+    "newest_in_repo": "2026-11-11",
+    "pending": 0,
+    "repo": 1111,
     "source_in_scope": 1111
    },
-   "check_id": "ru-pravo-north-ossetia-20261124T141602Z",
-   "commits": {
-    "count": 2,
-    "from": "022bd8147c967813284f47586648559c0305ff0b",
-    "to": "de8ef79da36ac20d236a472760ca60bff4150a0e"
-   },
+   "check_id": "ru-pravo-north-ossetia-20261125T061923Z",
+   "commits": null,
    "corpus": "russia/north-ossetia/acts",
    "error": null,
-   "finished": "2026-11-24T14:23:19Z",
+   "finished": "2026-11-25T06:19:59Z",
    "flags": [],
    "gap": 0,
-   "note": "publication.pravo.gov.ru, block region15: 1111 law-type documents listed (every page read); 1095 held here; 16 published since and not yet here; facts only, no law text (the PDF texts are under /File, which robots.txt disallows)",
-   "outcome": "changed",
+   "note": "publication.pravo.gov.ru, block region15: 1111 law-type documents listed (every page read); 1111 held here; 0 published since and not yet here; facts only, no law text (the PDF texts are under /File, which robots.txt disallows)",
+   "outcome": "no-change",
    "published": {
-    "added": [
-     "1500202611110001",
-     "1500202611110002",
-     "1500202611110003",
-     "1500202611110004",
-     "1500202611110005",
-     "1500202611110006",
-     "1500202611110007",
-     "1500202611110008",
-     "1500202611110009",
-     "1500202611110010",
-     "1500202611110011",
-     "1500202611110012",
-     "1500202611110014",
-     "1500202611110015",
-     "1500202611110016",
-     "1500202611110017"
-    ],
+    "added": [],
     "changed": [],
     "removed": []
    },
-   "requests": 10,
+   "requests": 9,
    "runner": "lawwatch russia (65e3dde363)",
    "schema": "lexifina-check/1",
    "seen": {
-    "added": [
-     "1500202611110001",
-     "1500202611110002",
-     "1500202611110003",
-     "1500202611110004",
-     "1500202611110005",
-     "1500202611110006",
-     "1500202611110007",
-     "1500202611110008",
-     "1500202611110009",
-     "1500202611110010",
-     "1500202611110011",
-     "1500202611110012",
-     "1500202611110014",
-     "1500202611110015",
-     "1500202611110016",
-     "1500202611110017"
-    ],
+    "added": [],
     "changed": [],
     "removed": []
    },
    "snapshot": "1111 law-type documents in block region15; newest published 2026-11-11",
    "source": "pravo-north-ossetia",
-   "started": "2026-11-24T14:16:02Z",
+   "started": "2026-11-25T06:19:23Z",
    "unexplained": 0,
    "update": {
-    "append": {
-     "commits": 1,
-     "corrections": null,
-     "extended_acts": [
-      "zakony-2026"
-     ],
-     "new_acts": []
-    },
-    "parts": [
-     "95-watch-20261124-001.json"
-    ]
+    "parts": []
    },
    "verify": {
     "cycle_days": 1,
